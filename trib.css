@@ -1,0 +1,54 @@
+   html,body{
+   font-family: 'Merienda'
+  
+}
+  h3, h4 {     
+      font-size: 20px;
+	  text-align: center;
+      color: #CDB7B5;
+	  	opacity: 4.7;
+    margin-bottom: 10px;
+  }
+  #title {  
+	color: #CDB7B5;
+    font-size: 40px;
+	 background: #333;
+   text-align: center;
+	opacity: 0.9;
+    margin-bottom: 10px;
+  }
+  
+  #main {
+   margin:30px auto;
+  
+  }
+  #img-div {
+  text-align: center;
+  }
+  #tribute-info {
+    padding: 15px;
+	color: #CDB7B5;
+    font-size: 18px;
+	opacity: 0.9;
+    min-height: 300px;
+    background: #333;
+    margin-bottom: 10px;
+  }
+  #tribute-link {
+    color: #777;
+      text-decoration: none;
+  }
+   
+  #image {
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+	filter: grayscale(90%);
+  }
+   #img-caption {
+    color: #CDB7B5;
+	text-align: center;
+    font-size: 18px;
+   
+  }
